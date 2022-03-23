@@ -1,0 +1,25 @@
+{
+  "name": "odu-sd-01-breads",
+  "version": "1.0.0",
+  "description": "ODU Demo for SD-01 Section Students",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anthonyjesmok/odu-sd-01-breads.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anthonyjesmok/odu-sd-01-breads/issues"
+  },
+  "homepage": "https://github.com/anthonyjesmok/odu-sd-01-breads#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3"
+  }
+}
